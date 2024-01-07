@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "mystic"]
+	url = https://github.com/Nehayadav11/mystic
+	fetch = +refs/heads/*:refs/remotes/mystic/*
